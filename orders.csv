@@ -1,0 +1,4 @@
+order_id,customer,created_at,items,stores,subtotal,delivery_fee,total,status,tracking_note,eta
+SSA-614D73FE,Demo Customer,2026-10-29T15:04,Coffee 200g x1 @ Shoprite; Apples 1kg x3 @ Shoprite,Shoprite,150.96,0.0,150.96,Order received,Order created in local demo app; no retailer/courier connection.,2026-10-29 17:04
+SSA-0DB440BC,Demo Customer,2026-10-29T15:07,Brown bread x3 @ Boxer; Milk 2L x1 @ Boxer; Rice 2kg x1 @ Boxer,Boxer,112.95,35.0,147.95,Order received,Order created in local demo app; no retailer/courier connection.,2026-10-29 17:07
+SSA-0AEFD7B4,Demo Customer,2026-10-29T15:12,Coffee 200g x1 @ Shoprite; Apples 1kg x3 @ Shoprite; Brown bread x3 @ Boxer; Milk 2L x1 @ Boxer; Rice 2kg x1 @ Boxer; Chicken portions 1kg x1 @ Shoprite; Dishwashing liquid 750ml x1 @ Shoprite,Boxer; Shoprite,350.89,0.0,350.89,Order received,Order created in local demo app; no retailer/courier connection.,2026-10-29 17:12

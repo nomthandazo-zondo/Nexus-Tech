@@ -1,0 +1,41 @@
+product_name,category,store,price,stock,on_sale,sale_label,vegetarian,vegan
+Milk 2L,Dairy,Pick n Pay,32.99,24,False,,True,False
+Milk 2L,Dairy,Shoprite,30.99,18,True,Weekend Saver,True,False
+Milk 2L,Dairy,Woolworths,36.99,12,False,,True,False
+Milk 2L,Dairy,Checkers,31.49,16,True,Smart Price,True,False
+Milk 2L,Dairy,Boxer,29.99,7,True,Budget Deal,True,False
+Milk 2L,Dairy,SPAR,33.5,14,False,,True,False
+Brown bread,Bakery,Pick n Pay,17.99,20,False,,True,True
+Brown bread,Bakery,Shoprite,15.99,3,True,Daily Deal,True,True
+Brown bread,Bakery,Woolworths,22.99,9,False,,True,True
+Brown bread,Bakery,Checkers,16.49,17,True,,True,True
+Brown bread,Bakery,Boxer,14.99,11,True,,True,True
+Brown bread,Bakery,SPAR,18.99,10,False,,True,True
+Rice 2kg,Pantry,Pick n Pay,42.99,18,False,,True,True
+Rice 2kg,Pantry,Shoprite,39.99,22,True,Price Drop,True,True
+Rice 2kg,Pantry,Woolworths,49.99,8,False,,True,True
+Rice 2kg,Pantry,Checkers,40.99,15,False,,True,True
+Rice 2kg,Pantry,Boxer,37.99,4,True,,True,True
+Rice 2kg,Pantry,SPAR,43.99,12,False,,True,True
+Eggs 18 pack,Dairy,Pick n Pay,59.99,15,False,,True,False
+Eggs 18 pack,Dairy,Shoprite,55.99,12,True,Egg-cellent Deal,True,False
+Eggs 18 pack,Dairy,Woolworths,67.99,6,False,,True,False
+Eggs 18 pack,Dairy,Checkers,57.99,2,True,,True,False
+Apples 1kg,Produce,Pick n Pay,29.99,16,False,,True,True
+Apples 1kg,Produce,Shoprite,26.99,13,True,Fresh Saver,True,True
+Apples 1kg,Produce,Woolworths,34.99,11,False,,True,True
+Apples 1kg,Produce,Checkers,27.99,9,False,,True,True
+Chicken portions 1kg,Meat,Pick n Pay,69.99,13,False,,False,False
+Chicken portions 1kg,Meat,Shoprite,64.99,10,True,Family Saver,False,False
+Chicken portions 1kg,Meat,Woolworths,79.99,8,False,,False,False
+Chicken portions 1kg,Meat,Checkers,66.99,14,True,,False,False
+Dishwashing liquid 750ml,Household,Pick n Pay,24.99,19,False,,True,True
+Dishwashing liquid 750ml,Household,Shoprite,21.99,17,True,Home Deal,True,True
+Dishwashing liquid 750ml,Household,Woolworths,29.99,7,False,,True,True
+Dishwashing liquid 750ml,Household,Checkers,23.99,12,False,,True,True
+Toilet paper 9 pack,Household,Boxer,44.99,20,True,Bulk Saver,True,True
+Toilet paper 9 pack,Household,SPAR,49.99,9,False,,True,True
+Coffee 200g,Pantry,Pick n Pay,74.99,10,False,,True,True
+Coffee 200g,Pantry,Shoprite,69.99,16,True,Morning Deal,True,True
+Coffee 200g,Pantry,Woolworths,84.99,7,False,,True,True
+Coffee 200g,Pantry,Checkers,72.99,11,True,,True,True

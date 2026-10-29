@@ -1,0 +1,361 @@
+date,product_name,units_sold
+2026-08-01,Milk 2L,25
+2026-08-02,Milk 2L,23
+2026-08-03,Milk 2L,20
+2026-08-04,Milk 2L,25
+2026-08-05,Milk 2L,27
+2026-08-06,Milk 2L,28
+2026-08-07,Milk 2L,27
+2026-08-08,Milk 2L,26
+2026-08-09,Milk 2L,27
+2026-08-10,Milk 2L,26
+2026-08-11,Milk 2L,29
+2026-08-12,Milk 2L,21
+2026-08-13,Milk 2L,24
+2026-08-14,Milk 2L,28
+2026-08-15,Milk 2L,22
+2026-08-16,Milk 2L,22
+2026-08-17,Milk 2L,20
+2026-08-18,Milk 2L,25
+2026-08-19,Milk 2L,24
+2026-08-20,Milk 2L,17
+2026-08-21,Milk 2L,23
+2026-08-22,Milk 2L,23
+2026-08-23,Milk 2L,18
+2026-08-24,Milk 2L,19
+2026-08-25,Milk 2L,16
+2026-08-26,Milk 2L,21
+2026-08-27,Milk 2L,18
+2026-08-28,Milk 2L,20
+2026-08-29,Milk 2L,24
+2026-08-30,Milk 2L,25
+2026-08-31,Milk 2L,22
+2026-09-01,Milk 2L,24
+2026-09-02,Milk 2L,20
+2026-09-03,Milk 2L,27
+2026-09-04,Milk 2L,22
+2026-09-05,Milk 2L,30
+2026-09-06,Milk 2L,30
+2026-09-07,Milk 2L,24
+2026-09-08,Milk 2L,24
+2026-09-09,Milk 2L,24
+2026-09-10,Milk 2L,27
+2026-09-11,Milk 2L,25
+2026-09-12,Milk 2L,25
+2026-09-13,Milk 2L,24
+2026-09-14,Milk 2L,22
+2026-09-15,Milk 2L,26
+2026-09-16,Milk 2L,20
+2026-09-17,Milk 2L,23
+2026-09-18,Milk 2L,22
+2026-09-19,Milk 2L,25
+2026-09-20,Milk 2L,20
+2026-09-21,Milk 2L,22
+2026-09-22,Milk 2L,21
+2026-09-23,Milk 2L,20
+2026-09-24,Milk 2L,23
+2026-09-25,Milk 2L,19
+2026-09-26,Milk 2L,22
+2026-09-27,Milk 2L,20
+2026-09-28,Milk 2L,18
+2026-09-29,Milk 2L,18
+2026-08-01,Brown bread,24
+2026-08-02,Brown bread,21
+2026-08-03,Brown bread,21
+2026-08-04,Brown bread,19
+2026-08-05,Brown bread,18
+2026-08-06,Brown bread,24
+2026-08-07,Brown bread,20
+2026-08-08,Brown bread,27
+2026-08-09,Brown bread,20
+2026-08-10,Brown bread,18
+2026-08-11,Brown bread,24
+2026-08-12,Brown bread,23
+2026-08-13,Brown bread,17
+2026-08-14,Brown bread,19
+2026-08-15,Brown bread,21
+2026-08-16,Brown bread,17
+2026-08-17,Brown bread,18
+2026-08-18,Brown bread,14
+2026-08-19,Brown bread,21
+2026-08-20,Brown bread,14
+2026-08-21,Brown bread,18
+2026-08-22,Brown bread,14
+2026-08-23,Brown bread,20
+2026-08-24,Brown bread,19
+2026-08-25,Brown bread,15
+2026-08-26,Brown bread,12
+2026-08-27,Brown bread,13
+2026-08-28,Brown bread,17
+2026-08-29,Brown bread,22
+2026-08-30,Brown bread,19
+2026-08-31,Brown bread,21
+2026-09-01,Brown bread,19
+2026-09-02,Brown bread,18
+2026-09-03,Brown bread,17
+2026-09-04,Brown bread,17
+2026-09-05,Brown bread,21
+2026-09-06,Brown bread,22
+2026-09-07,Brown bread,22
+2026-09-08,Brown bread,19
+2026-09-09,Brown bread,24
+2026-09-10,Brown bread,20
+2026-09-11,Brown bread,18
+2026-09-12,Brown bread,27
+2026-09-13,Brown bread,24
+2026-09-14,Brown bread,23
+2026-09-15,Brown bread,18
+2026-09-16,Brown bread,22
+2026-09-17,Brown bread,16
+2026-09-18,Brown bread,17
+2026-09-19,Brown bread,20
+2026-09-20,Brown bread,21
+2026-09-21,Brown bread,19
+2026-09-22,Brown bread,17
+2026-09-23,Brown bread,12
+2026-09-24,Brown bread,16
+2026-09-25,Brown bread,13
+2026-09-26,Brown bread,14
+2026-09-27,Brown bread,16
+2026-09-28,Brown bread,18
+2026-09-29,Brown bread,19
+2026-08-01,Rice 2kg,11
+2026-08-02,Rice 2kg,11
+2026-08-03,Rice 2kg,8
+2026-08-04,Rice 2kg,13
+2026-08-05,Rice 2kg,9
+2026-08-06,Rice 2kg,12
+2026-08-07,Rice 2kg,16
+2026-08-08,Rice 2kg,18
+2026-08-09,Rice 2kg,15
+2026-08-10,Rice 2kg,9
+2026-08-11,Rice 2kg,14
+2026-08-12,Rice 2kg,14
+2026-08-13,Rice 2kg,8
+2026-08-14,Rice 2kg,10
+2026-08-15,Rice 2kg,15
+2026-08-16,Rice 2kg,11
+2026-08-17,Rice 2kg,6
+2026-08-18,Rice 2kg,7
+2026-08-19,Rice 2kg,12
+2026-08-20,Rice 2kg,10
+2026-08-21,Rice 2kg,5
+2026-08-22,Rice 2kg,11
+2026-08-23,Rice 2kg,9
+2026-08-24,Rice 2kg,10
+2026-08-25,Rice 2kg,5
+2026-08-26,Rice 2kg,7
+2026-08-27,Rice 2kg,7
+2026-08-28,Rice 2kg,5
+2026-08-29,Rice 2kg,9
+2026-08-30,Rice 2kg,7
+2026-08-31,Rice 2kg,12
+2026-09-01,Rice 2kg,12
+2026-09-02,Rice 2kg,6
+2026-09-03,Rice 2kg,14
+2026-09-04,Rice 2kg,13
+2026-09-05,Rice 2kg,14
+2026-09-06,Rice 2kg,15
+2026-09-07,Rice 2kg,15
+2026-09-08,Rice 2kg,14
+2026-09-09,Rice 2kg,13
+2026-09-10,Rice 2kg,13
+2026-09-11,Rice 2kg,14
+2026-09-12,Rice 2kg,13
+2026-09-13,Rice 2kg,16
+2026-09-14,Rice 2kg,8
+2026-09-15,Rice 2kg,13
+2026-09-16,Rice 2kg,14
+2026-09-17,Rice 2kg,10
+2026-09-18,Rice 2kg,9
+2026-09-19,Rice 2kg,8
+2026-09-20,Rice 2kg,12
+2026-09-21,Rice 2kg,7
+2026-09-22,Rice 2kg,8
+2026-09-23,Rice 2kg,5
+2026-09-24,Rice 2kg,8
+2026-09-25,Rice 2kg,4
+2026-09-26,Rice 2kg,12
+2026-09-27,Rice 2kg,6
+2026-09-28,Rice 2kg,8
+2026-09-29,Rice 2kg,11
+2026-08-01,Eggs 18 pack,6
+2026-08-02,Eggs 18 pack,7
+2026-08-03,Eggs 18 pack,9
+2026-08-04,Eggs 18 pack,7
+2026-08-05,Eggs 18 pack,9
+2026-08-06,Eggs 18 pack,14
+2026-08-07,Eggs 18 pack,7
+2026-08-08,Eggs 18 pack,15
+2026-08-09,Eggs 18 pack,10
+2026-08-10,Eggs 18 pack,11
+2026-08-11,Eggs 18 pack,10
+2026-08-12,Eggs 18 pack,11
+2026-08-13,Eggs 18 pack,8
+2026-08-14,Eggs 18 pack,7
+2026-08-15,Eggs 18 pack,9
+2026-08-16,Eggs 18 pack,12
+2026-08-17,Eggs 18 pack,9
+2026-08-18,Eggs 18 pack,7
+2026-08-19,Eggs 18 pack,4
+2026-08-20,Eggs 18 pack,4
+2026-08-21,Eggs 18 pack,2
+2026-08-22,Eggs 18 pack,4
+2026-08-23,Eggs 18 pack,5
+2026-08-24,Eggs 18 pack,1
+2026-08-25,Eggs 18 pack,3
+2026-08-26,Eggs 18 pack,3
+2026-08-27,Eggs 18 pack,5
+2026-08-28,Eggs 18 pack,9
+2026-08-29,Eggs 18 pack,8
+2026-08-30,Eggs 18 pack,5
+2026-08-31,Eggs 18 pack,3
+2026-09-01,Eggs 18 pack,5
+2026-09-02,Eggs 18 pack,9
+2026-09-03,Eggs 18 pack,5
+2026-09-04,Eggs 18 pack,7
+2026-09-05,Eggs 18 pack,13
+2026-09-06,Eggs 18 pack,9
+2026-09-07,Eggs 18 pack,9
+2026-09-08,Eggs 18 pack,10
+2026-09-09,Eggs 18 pack,10
+2026-09-10,Eggs 18 pack,13
+2026-09-11,Eggs 18 pack,12
+2026-09-12,Eggs 18 pack,12
+2026-09-13,Eggs 18 pack,14
+2026-09-14,Eggs 18 pack,11
+2026-09-15,Eggs 18 pack,8
+2026-09-16,Eggs 18 pack,9
+2026-09-17,Eggs 18 pack,11
+2026-09-18,Eggs 18 pack,5
+2026-09-19,Eggs 18 pack,10
+2026-09-20,Eggs 18 pack,10
+2026-09-21,Eggs 18 pack,6
+2026-09-22,Eggs 18 pack,2
+2026-09-23,Eggs 18 pack,8
+2026-09-24,Eggs 18 pack,7
+2026-09-25,Eggs 18 pack,6
+2026-09-26,Eggs 18 pack,6
+2026-09-27,Eggs 18 pack,5
+2026-09-28,Eggs 18 pack,5
+2026-09-29,Eggs 18 pack,7
+2026-08-01,Apples 1kg,13
+2026-08-02,Apples 1kg,14
+2026-08-03,Apples 1kg,6
+2026-08-04,Apples 1kg,7
+2026-08-05,Apples 1kg,12
+2026-08-06,Apples 1kg,14
+2026-08-07,Apples 1kg,15
+2026-08-08,Apples 1kg,12
+2026-08-09,Apples 1kg,16
+2026-08-10,Apples 1kg,13
+2026-08-11,Apples 1kg,11
+2026-08-12,Apples 1kg,12
+2026-08-13,Apples 1kg,7
+2026-08-14,Apples 1kg,11
+2026-08-15,Apples 1kg,15
+2026-08-16,Apples 1kg,9
+2026-08-17,Apples 1kg,11
+2026-08-18,Apples 1kg,9
+2026-08-19,Apples 1kg,11
+2026-08-20,Apples 1kg,3
+2026-08-21,Apples 1kg,9
+2026-08-22,Apples 1kg,6
+2026-08-23,Apples 1kg,11
+2026-08-24,Apples 1kg,5
+2026-08-25,Apples 1kg,8
+2026-08-26,Apples 1kg,3
+2026-08-27,Apples 1kg,9
+2026-08-28,Apples 1kg,3
+2026-08-29,Apples 1kg,11
+2026-08-30,Apples 1kg,12
+2026-08-31,Apples 1kg,8
+2026-09-01,Apples 1kg,5
+2026-09-02,Apples 1kg,5
+2026-09-03,Apples 1kg,12
+2026-09-04,Apples 1kg,12
+2026-09-05,Apples 1kg,14
+2026-09-06,Apples 1kg,13
+2026-09-07,Apples 1kg,10
+2026-09-08,Apples 1kg,10
+2026-09-09,Apples 1kg,9
+2026-09-10,Apples 1kg,15
+2026-09-11,Apples 1kg,9
+2026-09-12,Apples 1kg,11
+2026-09-13,Apples 1kg,15
+2026-09-14,Apples 1kg,14
+2026-09-15,Apples 1kg,8
+2026-09-16,Apples 1kg,10
+2026-09-17,Apples 1kg,6
+2026-09-18,Apples 1kg,4
+2026-09-19,Apples 1kg,9
+2026-09-20,Apples 1kg,8
+2026-09-21,Apples 1kg,8
+2026-09-22,Apples 1kg,7
+2026-09-23,Apples 1kg,6
+2026-09-24,Apples 1kg,6
+2026-09-25,Apples 1kg,8
+2026-09-26,Apples 1kg,11
+2026-09-27,Apples 1kg,8
+2026-09-28,Apples 1kg,8
+2026-09-29,Apples 1kg,3
+2026-08-01,Coffee 200g,6
+2026-08-02,Coffee 200g,6
+2026-08-03,Coffee 200g,3
+2026-08-04,Coffee 200g,5
+2026-08-05,Coffee 200g,4
+2026-08-06,Coffee 200g,8
+2026-08-07,Coffee 200g,8
+2026-08-08,Coffee 200g,7
+2026-08-09,Coffee 200g,7
+2026-08-10,Coffee 200g,5
+2026-08-11,Coffee 200g,4
+2026-08-12,Coffee 200g,10
+2026-08-13,Coffee 200g,3
+2026-08-14,Coffee 200g,7
+2026-08-15,Coffee 200g,8
+2026-08-16,Coffee 200g,9
+2026-08-17,Coffee 200g,1
+2026-08-18,Coffee 200g,3
+2026-08-19,Coffee 200g,1
+2026-08-20,Coffee 200g,1
+2026-08-21,Coffee 200g,1
+2026-08-22,Coffee 200g,3
+2026-08-23,Coffee 200g,7
+2026-08-24,Coffee 200g,0
+2026-08-25,Coffee 200g,0
+2026-08-26,Coffee 200g,2
+2026-08-27,Coffee 200g,0
+2026-08-28,Coffee 200g,5
+2026-08-29,Coffee 200g,1
+2026-08-30,Coffee 200g,8
+2026-08-31,Coffee 200g,0
+2026-09-01,Coffee 200g,1
+2026-09-02,Coffee 200g,3
+2026-09-03,Coffee 200g,4
+2026-09-04,Coffee 200g,2
+2026-09-05,Coffee 200g,10
+2026-09-06,Coffee 200g,11
+2026-09-07,Coffee 200g,4
+2026-09-08,Coffee 200g,11
+2026-09-09,Coffee 200g,5
+2026-09-10,Coffee 200g,11
+2026-09-11,Coffee 200g,9
+2026-09-12,Coffee 200g,10
+2026-09-13,Coffee 200g,5
+2026-09-14,Coffee 200g,5
+2026-09-15,Coffee 200g,5
+2026-09-16,Coffee 200g,6
+2026-09-17,Coffee 200g,2
+2026-09-18,Coffee 200g,2
+2026-09-19,Coffee 200g,4
+2026-09-20,Coffee 200g,3
+2026-09-21,Coffee 200g,0
+2026-09-22,Coffee 200g,5
+2026-09-23,Coffee 200g,1
+2026-09-24,Coffee 200g,0
+2026-09-25,Coffee 200g,1
+2026-09-26,Coffee 200g,1
+2026-09-27,Coffee 200g,4
+2026-09-28,Coffee 200g,0
+2026-09-29,Coffee 200g,1
