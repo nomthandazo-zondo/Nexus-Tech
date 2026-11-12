@@ -1,0 +1,121 @@
+id,sku,name,category,store,price,stock,original_price,sales_30d
+P001S1,SKU001,Milk 2L,Dairy,Pick n Pay,30.09,0,33.70,0
+P001S2,SKU001,Milk 2L,Dairy,Shoprite,31.67,7,35.47,19
+P001S3,SKU001,Milk 2L,Dairy,Woolworths,33.24,14,37.23,38
+P001S4,SKU001,Milk 2L,Dairy,Checkers,34.82,21,39.00,57
+P001S5,SKU001,Milk 2L,Dairy,Boxer,36.39,28,40.76,76
+P001S6,SKU001,Milk 2L,Dairy,SPAR,37.96,35,42.52,95
+P002S1,SKU002,Bread White 700g,Bakery,Pick n Pay,17.19,13,19.25,17
+P002S2,SKU002,Bread White 700g,Bakery,Shoprite,19.09,20,21.38,36
+P002S3,SKU002,Bread White 700g,Bakery,Woolworths,20.99,27,23.51,55
+P002S4,SKU002,Bread White 700g,Bakery,Checkers,22.89,34,25.64,74
+P002S5,SKU002,Bread White 700g,Bakery,Boxer,20.79,41,23.28,93
+P002S6,SKU002,Bread White 700g,Bakery,SPAR,22.69,48,25.41,112
+P003S1,SKU003,Eggs 18 Pack,Dairy,Pick n Pay,55.89,26,62.60,34
+P003S2,SKU003,Eggs 18 Pack,Dairy,Shoprite,60.82,33,68.12,53
+P003S3,SKU003,Eggs 18 Pack,Dairy,Woolworths,61.74,40,69.15,72
+P003S4,SKU003,Eggs 18 Pack,Dairy,Checkers,66.67,47,74.67,91
+P003S5,SKU003,Eggs 18 Pack,Dairy,Boxer,67.59,54,75.70,110
+P003S6,SKU003,Eggs 18 Pack,Dairy,SPAR,72.51,6,81.21,4
+P004S1,SKU004,Rice 2kg,Pantry,Pick n Pay,42.99,39,48.15,51
+P004S2,SKU004,Rice 2kg,Pantry,Shoprite,48.24,46,54.03,70
+P004S3,SKU004,Rice 2kg,Pantry,Woolworths,49.49,53,55.43,89
+P004S4,SKU004,Rice 2kg,Pantry,Checkers,50.74,5,56.83,108
+P004S5,SKU004,Rice 2kg,Pantry,Boxer,51.99,12,58.23,2
+P004S6,SKU004,Rice 2kg,Pantry,SPAR,57.24,19,64.11,21
+P005S1,SKU005,Sugar 2kg,Pantry,Pick n Pay,38.69,52,43.33,68
+P005S2,SKU005,Sugar 2kg,Pantry,Shoprite,40.72,4,45.61,87
+P005S3,SKU005,Sugar 2kg,Pantry,Woolworths,42.74,11,47.87,106
+P005S4,SKU005,Sugar 2kg,Pantry,Checkers,44.77,18,50.14,0
+P005S5,SKU005,Sugar 2kg,Pantry,Boxer,46.79,25,52.40,19
+P005S6,SKU005,Sugar 2kg,Pantry,SPAR,48.81,32,54.67,38
+P006S1,SKU006,Cooking Oil 2L,Pantry,Pick n Pay,68.79,10,77.04,85
+P006S2,SKU006,Cooking Oil 2L,Pantry,Shoprite,73.39,17,82.20,104
+P006S3,SKU006,Cooking Oil 2L,Pantry,Woolworths,77.99,24,87.35,123
+P006S4,SKU006,Cooking Oil 2L,Pantry,Checkers,82.59,31,92.50,17
+P006S5,SKU006,Cooking Oil 2L,Pantry,Boxer,83.19,38,93.17,36
+P006S6,SKU006,Cooking Oil 2L,Pantry,SPAR,87.79,45,98.32,55
+P007S1,SKU007,Chicken 1kg,Meat,Pick n Pay,77.39,23,86.68,102
+P007S2,SKU007,Chicken 1kg,Meat,Shoprite,83.44,30,93.45,121
+P007S3,SKU007,Chicken 1kg,Meat,Woolworths,85.49,37,95.75,15
+P007S4,SKU007,Chicken 1kg,Meat,Checkers,91.54,44,102.52,34
+P007S5,SKU007,Chicken 1kg,Meat,Boxer,93.59,51,104.82,53
+P007S6,SKU007,Chicken 1kg,Meat,SPAR,99.64,3,111.60,72
+P008S1,SKU008,Bananas 1kg,Produce,Pick n Pay,21.49,36,24.07,119
+P008S2,SKU008,Bananas 1kg,Produce,Shoprite,25.62,43,28.69,13
+P008S3,SKU008,Bananas 1kg,Produce,Woolworths,25.74,50,28.83,32
+P008S4,SKU008,Bananas 1kg,Produce,Checkers,25.87,2,28.97,51
+P008S5,SKU008,Bananas 1kg,Produce,Boxer,25.99,9,29.11,70
+P008S6,SKU008,Bananas 1kg,Produce,SPAR,30.11,16,33.72,89
+P009S1,SKU009,Potatoes 2kg,Produce,Pick n Pay,34.39,49,38.52,11
+P009S2,SKU009,Potatoes 2kg,Produce,Shoprite,36.19,1,40.53,30
+P009S3,SKU009,Potatoes 2kg,Produce,Woolworths,37.99,8,42.55,49
+P009S4,SKU009,Potatoes 2kg,Produce,Checkers,39.79,15,44.56,68
+P009S5,SKU009,Potatoes 2kg,Produce,Boxer,41.59,22,46.58,87
+P009S6,SKU009,Potatoes 2kg,Produce,SPAR,43.39,29,48.60,106
+P010S1,SKU010,Apples 1kg,Produce,Pick n Pay,30.09,7,33.70,28
+P010S2,SKU010,Apples 1kg,Produce,Shoprite,32.67,14,36.59,47
+P010S3,SKU010,Apples 1kg,Produce,Woolworths,35.24,21,39.47,66
+P010S4,SKU010,Apples 1kg,Produce,Checkers,37.82,28,42.36,85
+P010S5,SKU010,Apples 1kg,Produce,Boxer,36.39,35,40.76,104
+P010S6,SKU010,Apples 1kg,Produce,SPAR,38.96,42,43.64,123
+P011S1,SKU011,Coffee 200g,Beverages,Pick n Pay,73.09,20,81.86,45
+P011S2,SKU011,Coffee 200g,Beverages,Shoprite,78.92,27,88.39,64
+P011S3,SKU011,Coffee 200g,Beverages,Woolworths,80.74,34,90.43,83
+P011S4,SKU011,Coffee 200g,Beverages,Checkers,86.57,41,96.96,102
+P011S5,SKU011,Coffee 200g,Beverages,Boxer,88.39,48,99.00,121
+P011S6,SKU011,Coffee 200g,Beverages,SPAR,94.21,0,105.52,15
+P012S1,SKU012,Tea 100 Bags,Beverages,Pick n Pay,42.99,33,48.15,62
+P012S2,SKU012,Tea 100 Bags,Beverages,Shoprite,48.24,40,54.03,81
+P012S3,SKU012,Tea 100 Bags,Beverages,Woolworths,49.49,47,55.43,100
+P012S4,SKU012,Tea 100 Bags,Beverages,Checkers,50.74,54,56.83,119
+P012S5,SKU012,Tea 100 Bags,Beverages,Boxer,51.99,6,58.23,13
+P012S6,SKU012,Tea 100 Bags,Beverages,SPAR,57.24,13,64.11,32
+P013S1,SKU013,Cereal 500g,Breakfast,Pick n Pay,47.29,46,52.96,79
+P013S2,SKU013,Cereal 500g,Breakfast,Shoprite,49.77,53,55.74,98
+P013S3,SKU013,Cereal 500g,Breakfast,Woolworths,52.24,5,58.51,117
+P013S4,SKU013,Cereal 500g,Breakfast,Checkers,54.72,12,61.29,11
+P013S5,SKU013,Cereal 500g,Breakfast,Boxer,57.19,19,64.05,30
+P013S6,SKU013,Cereal 500g,Breakfast,SPAR,59.66,26,66.82,49
+P014S1,SKU014,Pasta 500g,Pantry,Pick n Pay,21.49,4,24.07,96
+P014S2,SKU014,Pasta 500g,Pantry,Shoprite,23.62,11,26.45,115
+P014S3,SKU014,Pasta 500g,Pantry,Woolworths,25.74,18,28.83,9
+P014S4,SKU014,Pasta 500g,Pantry,Checkers,27.87,25,31.21,28
+P014S5,SKU014,Pasta 500g,Pantry,Boxer,25.99,32,29.11,47
+P014S6,SKU014,Pasta 500g,Pantry,SPAR,28.11,39,31.48,66
+P015S1,SKU015,Tomatoes 1kg,Produce,Pick n Pay,25.79,17,28.88,113
+P015S2,SKU015,Tomatoes 1kg,Produce,Shoprite,29.14,24,32.64,7
+P015S3,SKU015,Tomatoes 1kg,Produce,Woolworths,28.49,31,31.91,26
+P015S4,SKU015,Tomatoes 1kg,Produce,Checkers,31.84,38,35.66,45
+P015S5,SKU015,Tomatoes 1kg,Produce,Boxer,31.19,45,34.93,64
+P015S6,SKU015,Tomatoes 1kg,Produce,SPAR,34.54,52,38.68,83
+P016S1,SKU016,Cheese 400g,Dairy,Pick n Pay,60.19,30,67.41,5
+P016S2,SKU016,Cheese 400g,Dairy,Shoprite,66.34,37,74.30,24
+P016S3,SKU016,Cheese 400g,Dairy,Woolworths,68.49,44,76.71,43
+P016S4,SKU016,Cheese 400g,Dairy,Checkers,70.64,51,79.12,62
+P016S5,SKU016,Cheese 400g,Dairy,Boxer,72.79,3,81.52,81
+P016S6,SKU016,Cheese 400g,Dairy,SPAR,78.94,10,88.41,100
+P017S1,SKU017,Soap 4 Pack,Personal Care,Pick n Pay,34.39,43,38.52,22
+P017S2,SKU017,Soap 4 Pack,Personal Care,Shoprite,36.19,50,40.53,41
+P017S3,SKU017,Soap 4 Pack,Personal Care,Woolworths,37.99,2,42.55,60
+P017S4,SKU017,Soap 4 Pack,Personal Care,Checkers,39.79,9,44.56,79
+P017S5,SKU017,Soap 4 Pack,Personal Care,Boxer,41.59,16,46.58,98
+P017S6,SKU017,Soap 4 Pack,Personal Care,SPAR,43.39,23,48.60,117
+P018S1,SKU018,Toothpaste 100ml,Personal Care,Pick n Pay,21.49,1,24.07,39
+P018S2,SKU018,Toothpaste 100ml,Personal Care,Shoprite,23.62,8,26.45,58
+P018S3,SKU018,Toothpaste 100ml,Personal Care,Woolworths,25.74,15,28.83,77
+P018S4,SKU018,Toothpaste 100ml,Personal Care,Checkers,27.87,22,31.21,96
+P018S5,SKU018,Toothpaste 100ml,Personal Care,Boxer,25.99,29,29.11,115
+P018S6,SKU018,Toothpaste 100ml,Personal Care,SPAR,28.11,36,31.48,9
+P019S1,SKU019,Washing Powder 2kg,Household,Pick n Pay,77.39,14,86.68,56
+P019S2,SKU019,Washing Powder 2kg,Household,Shoprite,83.44,21,93.45,75
+P019S3,SKU019,Washing Powder 2kg,Household,Woolworths,85.49,28,95.75,94
+P019S4,SKU019,Washing Powder 2kg,Household,Checkers,91.54,35,102.52,113
+P019S5,SKU019,Washing Powder 2kg,Household,Boxer,93.59,42,104.82,7
+P019S6,SKU019,Washing Powder 2kg,Household,SPAR,99.64,49,111.60,26
+P020S1,SKU020,Bottled Water 1.5L,Beverages,Pick n Pay,13.75,27,15.40,73
+P020S2,SKU020,Bottled Water 1.5L,Beverages,Shoprite,17.47,34,19.57,92
+P020S3,SKU020,Bottled Water 1.5L,Beverages,Woolworths,17.19,41,19.25,111
+P020S4,SKU020,Bottled Water 1.5L,Beverages,Checkers,16.91,48,18.94,5
+P020S5,SKU020,Bottled Water 1.5L,Beverages,Boxer,16.63,0,18.63,24
+P020S6,SKU020,Bottled Water 1.5L,Beverages,SPAR,20.35,7,22.79,43

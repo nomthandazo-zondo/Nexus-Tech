@@ -1,0 +1,208 @@
+[
+    {
+        "id": "SS2611097C52C7",
+        "created_at": "2026-11-09T17:37:35+01:00",
+        "status": "Placed",
+        "timeline": [
+            {
+                "status": "Placed",
+                "at": "2026-11-09T17:37:35+01:00"
+            }
+        ],
+        "items": [
+            {
+                "id": "P018S1",
+                "name": "Toothpaste 100ml",
+                "store": "Pick n Pay",
+                "qty": 1,
+                "unit_price": 21.49,
+                "subtotal": 21.49
+            },
+            {
+                "id": "P018S3",
+                "name": "Toothpaste 100ml",
+                "store": "Woolworths",
+                "qty": 1,
+                "unit_price": 25.74,
+                "subtotal": 25.74
+            },
+            {
+                "id": "P019S4",
+                "name": "Washing Powder 2kg",
+                "store": "Checkers",
+                "qty": 1,
+                "unit_price": 91.54,
+                "subtotal": 91.54
+            },
+            {
+                "id": "P019S2",
+                "name": "Washing Powder 2kg",
+                "store": "Shoprite",
+                "qty": 1,
+                "unit_price": 83.44,
+                "subtotal": 83.44
+            }
+        ],
+        "store_totals": {
+            "Pick n Pay": 21.49,
+            "Woolworths": 25.74,
+            "Checkers": 91.54,
+            "Shoprite": 83.44
+        },
+        "subtotal": 222.21,
+        "delivery": 99.96,
+        "total": 322.17,
+        "mode": "SIMULATED - NO PAYMENT"
+    },
+    {
+        "id": "SS2611094BBF9E",
+        "created_at": "2026-11-09T17:58:55+01:00",
+        "status": "Placed",
+        "timeline": [
+            {
+                "status": "Placed",
+                "at": "2026-11-09T17:58:55+01:00"
+            }
+        ],
+        "items": [
+            {
+                "id": "P010S1",
+                "name": "Apples 1kg",
+                "store": "Pick n Pay",
+                "qty": 1,
+                "unit_price": 30.09,
+                "subtotal": 30.09
+            },
+            {
+                "id": "P010S2",
+                "name": "Apples 1kg",
+                "store": "Shoprite",
+                "qty": 1,
+                "unit_price": 32.67,
+                "subtotal": 32.67
+            },
+            {
+                "id": "P008S3",
+                "name": "Bananas 1kg",
+                "store": "Woolworths",
+                "qty": 1,
+                "unit_price": 25.74,
+                "subtotal": 25.74
+            },
+            {
+                "id": "P020S4",
+                "name": "Bottled Water 1.5L",
+                "store": "Checkers",
+                "qty": 1,
+                "unit_price": 16.91,
+                "subtotal": 16.91
+            },
+            {
+                "id": "P002S4",
+                "name": "Bread White 700g",
+                "store": "Checkers",
+                "qty": 1,
+                "unit_price": 22.89,
+                "subtotal": 22.89
+            },
+            {
+                "id": "P013S2",
+                "name": "Cereal 500g",
+                "store": "Shoprite",
+                "qty": 1,
+                "unit_price": 49.77,
+                "subtotal": 49.77
+            },
+            {
+                "id": "P016S1",
+                "name": "Cheese 400g",
+                "store": "Pick n Pay",
+                "qty": 1,
+                "unit_price": 60.19,
+                "subtotal": 60.19
+            }
+        ],
+        "store_totals": {
+            "Pick n Pay": 90.28,
+            "Shoprite": 82.44,
+            "Woolworths": 25.74,
+            "Checkers": 39.8
+        },
+        "subtotal": 238.26,
+        "delivery": 99.96,
+        "total": 338.22,
+        "mode": "SIMULATED - NO PAYMENT"
+    },
+    {
+        "id": "SS26110985A42C",
+        "created_at": "2026-11-09T21:36:07+01:00",
+        "status": "Placed",
+        "timeline": [
+            {
+                "status": "Placed",
+                "at": "2026-11-09T21:36:07+01:00"
+            }
+        ],
+        "items": [
+            {
+                "id": "P010S1",
+                "name": "Apples 1kg",
+                "store": "Pick n Pay",
+                "qty": 1,
+                "unit_price": 30.09,
+                "subtotal": 30.09
+            },
+            {
+                "id": "P008S1",
+                "name": "Bananas 1kg",
+                "store": "Pick n Pay",
+                "qty": 1,
+                "unit_price": 21.49,
+                "subtotal": 21.49
+            },
+            {
+                "id": "P020S3",
+                "name": "Bottled Water 1.5L",
+                "store": "Woolworths",
+                "qty": 1,
+                "unit_price": 17.19,
+                "subtotal": 17.19
+            },
+            {
+                "id": "P013S4",
+                "name": "Cereal 500g",
+                "store": "Checkers",
+                "qty": 1,
+                "unit_price": 54.72,
+                "subtotal": 54.72
+            },
+            {
+                "id": "P001S2",
+                "name": "Milk 2L",
+                "store": "Shoprite",
+                "qty": 1,
+                "unit_price": 31.67,
+                "subtotal": 31.67
+            },
+            {
+                "id": "P016S6",
+                "name": "Cheese 400g",
+                "store": "SPAR",
+                "qty": 1,
+                "unit_price": 78.94,
+                "subtotal": 78.94
+            }
+        ],
+        "store_totals": {
+            "Pick n Pay": 51.58,
+            "Woolworths": 17.19,
+            "Checkers": 54.72,
+            "Shoprite": 31.67,
+            "SPAR": 78.94
+        },
+        "subtotal": 234.1,
+        "delivery": 124.95,
+        "total": 359.05,
+        "mode": "SIMULATED - NO PAYMENT"
+    }
+]
