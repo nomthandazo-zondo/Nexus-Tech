@@ -1,0 +1,760 @@
+text,intent
+optimize cart,optimise
+view basket,cart
+show available products,browse
+search the shelves,browse
+remov bred,remove
+compare milk prices,compare
+cost of chicken across stores,compare
+check my previous order,track
+complete purchase,checkout
+undo adding oats,remove
+locate my order,track
+when will my order arrive,track
+how are you,other
+subtract cheese,remove
+show cart,cart
+write a poem,other
+show my shopping list,cart
+groceries within R600,budget
+finalise order,checkout
+get me chicken,add
+budget R500,budget
+basket total,cart
+what can you do,other
+tell me about music,other
+display household goods,browse
+I have R400 for food,budget
+put bread in basket,add
+exclude coffee from cart,remove
+track package,track
+what is AI,other
+I need rice,add
+suggestion: more items,feedback
+remove milk,remove
+send developer feedback,feedback
+start checkout,checkout
+compare apples,compare
+take rice out,remove
+search for rice,browse
+reduce my basket cost,optimise
+do not want chicken anymore,remove
+delete bread,remove
+cart contents,cart
+optimise my shopping,optimise
+what can I afford,budget
+show vegetables,browse
+cheapest cheese,compare
+list products,browse
+find optimal retailer mix,optimise
+recommend groceries under R300,budget
+I want oats,add
+suggestion: add stores,feedback
+list my selected items,cart
+list bakery items,browse
+please include soap,add
+show past purchases,track
+checkout,checkout
+reduce total shopping bill,optimise
+explain gravity,other
+report a suggestion,feedback
+recommend a cheap basket,budget
+show orders,track
+purchase my cart,checkout
+how much does coffee cost,compare
+submit a comment,feedback
+browse beverages,browse
+delivery progress,track
+review payment total,checkout
+price of oats,compare
+give app feedback,feedback
+feedback for team,feedback
+finish shopping,checkout
+good morning,other
+grab coffee for me,add
+view selected groceries,cart
+put in some sugar,add
+report an issue,feedback
+pay for my order,checkout
+minimise delivery fees,optimise
+has my order arrived,track
+remove one apple,remove
+discard pasta,remove
+developer suggestion,feedback
+what groceries are available,browse
+what is the capital of France,other
+proceed to checkout,checkout
+what is in my cart,cart
+check shipment,track
+basket needs cheese,add
+save on my whole basket,optimise
+how much are eggs,compare
+which store is cheapest for bread,compare
+add milk,add
+send my opinion,feedback
+tell me a joke,other
+meal plan for R200,budget
+pop flour in my basket,add
+where is my delivery,track
+save money on entire cart,optimise
+find cheaper combination,optimise
+tell developers to improve,feedback
+status of delivery,track
+help me stretch R250,budget
+suggest an improvement,feedback
+what have I added,cart
+goodbye,other
+take bananas off my list,remove
+can I have two bananas,add
+order now,checkout
+price comparison rice,compare
+see basket,cart
+open my cart,cart
+compair bred,compare
+food for R150,budget
+cheaper total order,optimise
+submit my basket,checkout
+compare bananas between retailers,compare
+shopping on a budget,budget
+looking for coffee,browse
+shop within R1000,budget
+plan my grocery budget,budget
+check my cart,cart
+browse dairy,browse
+drop eggs from basket,remove
+help,other
+find eggs,browse
+who are you,other
+best stores for my order,optimise
+I would like pasta,add
+view order history,track
+check out please,checkout
+consolidate my basket,optimise
+best price for sugar,compare
+add tomatoes to my cart,add
+add yoghurt to my cart,add
+add potatoes to my cart,add
+add tea to my cart,add
+add carrots to my cart,add
+add beans to my cart,add
+add cereal to my cart,add
+add shampoo to my cart,add
+add butter to my cart,add
+add onions to my cart,add
+add lentils to my cart,add
+add juice to my cart,add
+please put tomatoes into my basket,add
+please put yoghurt into my basket,add
+please put potatoes into my basket,add
+please put tea into my basket,add
+please put carrots into my basket,add
+please put beans into my basket,add
+please put cereal into my basket,add
+please put shampoo into my basket,add
+please put butter into my basket,add
+please put onions into my basket,add
+please put lentils into my basket,add
+please put juice into my basket,add
+I want to buy tomatoes,add
+I want to buy yoghurt,add
+I want to buy potatoes,add
+I want to buy tea,add
+I want to buy carrots,add
+I want to buy beans,add
+I want to buy cereal,add
+I want to buy shampoo,add
+I want to buy butter,add
+I want to buy onions,add
+I want to buy lentils,add
+I want to buy juice,add
+get me tomatoes please,add
+get me yoghurt please,add
+get me potatoes please,add
+get me tea please,add
+get me carrots please,add
+get me beans please,add
+get me cereal please,add
+get me shampoo please,add
+get me butter please,add
+get me onions please,add
+get me lentils please,add
+get me juice please,add
+include tomatoes in my order,add
+include yoghurt in my order,add
+include potatoes in my order,add
+include tea in my order,add
+include carrots in my order,add
+include beans in my order,add
+include cereal in my order,add
+include shampoo in my order,add
+include butter in my order,add
+include onions in my order,add
+include lentils in my order,add
+include juice in my order,add
+I need some tomatoes,add
+I need some yoghurt,add
+I need some potatoes,add
+I need some tea,add
+I need some carrots,add
+I need some beans,add
+I need some cereal,add
+I need some shampoo,add
+I need some butter,add
+I need some onions,add
+I need some lentils,add
+I need some juice,add
+can I have tomatoes,add
+can I have yoghurt,add
+can I have potatoes,add
+can I have tea,add
+can I have carrots,add
+can I have beans,add
+can I have cereal,add
+can I have shampoo,add
+can I have butter,add
+can I have onions,add
+can I have lentils,add
+can I have juice,add
+remove tomatoes from my cart,remove
+remove yoghurt from my cart,remove
+remove potatoes from my cart,remove
+remove tea from my cart,remove
+remove carrots from my cart,remove
+remove beans from my cart,remove
+remove cereal from my cart,remove
+remove shampoo from my cart,remove
+remove butter from my cart,remove
+remove onions from my cart,remove
+remove lentils from my cart,remove
+remove juice from my cart,remove
+delete tomatoes from basket,remove
+delete yoghurt from basket,remove
+delete potatoes from basket,remove
+delete tea from basket,remove
+delete carrots from basket,remove
+delete beans from basket,remove
+delete cereal from basket,remove
+delete shampoo from basket,remove
+delete butter from basket,remove
+delete onions from basket,remove
+delete lentils from basket,remove
+delete juice from basket,remove
+take tomatoes out of my cart,remove
+take yoghurt out of my cart,remove
+take potatoes out of my cart,remove
+take tea out of my cart,remove
+take carrots out of my cart,remove
+take beans out of my cart,remove
+take cereal out of my cart,remove
+take shampoo out of my cart,remove
+take butter out of my cart,remove
+take onions out of my cart,remove
+take lentils out of my cart,remove
+take juice out of my cart,remove
+get rid of tomatoes,remove
+get rid of yoghurt,remove
+get rid of potatoes,remove
+get rid of tea,remove
+get rid of carrots,remove
+get rid of beans,remove
+get rid of cereal,remove
+get rid of shampoo,remove
+get rid of butter,remove
+get rid of onions,remove
+get rid of lentils,remove
+get rid of juice,remove
+drop tomatoes from my order,remove
+drop yoghurt from my order,remove
+drop potatoes from my order,remove
+drop tea from my order,remove
+drop carrots from my order,remove
+drop beans from my order,remove
+drop cereal from my order,remove
+drop shampoo from my order,remove
+drop butter from my order,remove
+drop onions from my order,remove
+drop lentils from my order,remove
+drop juice from my order,remove
+exclude tomatoes please,remove
+exclude yoghurt please,remove
+exclude potatoes please,remove
+exclude tea please,remove
+exclude carrots please,remove
+exclude beans please,remove
+exclude cereal please,remove
+exclude shampoo please,remove
+exclude butter please,remove
+exclude onions please,remove
+exclude lentils please,remove
+exclude juice please,remove
+I no longer want tomatoes,remove
+I no longer want yoghurt,remove
+I no longer want potatoes,remove
+I no longer want tea,remove
+I no longer want carrots,remove
+I no longer want beans,remove
+I no longer want cereal,remove
+I no longer want shampoo,remove
+I no longer want butter,remove
+I no longer want onions,remove
+I no longer want lentils,remove
+I no longer want juice,remove
+compare prices for tomatoes,compare
+compare prices for yoghurt,compare
+compare prices for potatoes,compare
+compare prices for tea,compare
+compare prices for carrots,compare
+compare prices for beans,compare
+compare prices for cereal,compare
+compare prices for shampoo,compare
+compare prices for butter,compare
+compare prices for onions,compare
+compare prices for lentils,compare
+compare prices for juice,compare
+which store has the cheapest tomatoes,compare
+which store has the cheapest yoghurt,compare
+which store has the cheapest potatoes,compare
+which store has the cheapest tea,compare
+which store has the cheapest carrots,compare
+which store has the cheapest beans,compare
+which store has the cheapest cereal,compare
+which store has the cheapest shampoo,compare
+which store has the cheapest butter,compare
+which store has the cheapest onions,compare
+which store has the cheapest lentils,compare
+which store has the cheapest juice,compare
+how much does tomatoes cost,compare
+how much does yoghurt cost,compare
+how much does potatoes cost,compare
+how much does tea cost,compare
+how much does carrots cost,compare
+how much does beans cost,compare
+how much does cereal cost,compare
+how much does shampoo cost,compare
+how much does butter cost,compare
+how much does onions cost,compare
+how much does lentils cost,compare
+how much does juice cost,compare
+where can I find cheaper tomatoes,compare
+where can I find cheaper yoghurt,compare
+where can I find cheaper potatoes,compare
+where can I find cheaper tea,compare
+where can I find cheaper carrots,compare
+where can I find cheaper beans,compare
+where can I find cheaper cereal,compare
+where can I find cheaper shampoo,compare
+where can I find cheaper butter,compare
+where can I find cheaper onions,compare
+where can I find cheaper lentils,compare
+where can I find cheaper juice,compare
+show price comparison for tomatoes,compare
+show price comparison for yoghurt,compare
+show price comparison for potatoes,compare
+show price comparison for tea,compare
+show price comparison for carrots,compare
+show price comparison for beans,compare
+show price comparison for cereal,compare
+show price comparison for shampoo,compare
+show price comparison for butter,compare
+show price comparison for onions,compare
+show price comparison for lentils,compare
+show price comparison for juice,compare
+what is the price of tomatoes,compare
+what is the price of yoghurt,compare
+what is the price of potatoes,compare
+what is the price of tea,compare
+what is the price of carrots,compare
+what is the price of beans,compare
+what is the price of cereal,compare
+what is the price of shampoo,compare
+what is the price of butter,compare
+what is the price of onions,compare
+what is the price of lentils,compare
+what is the price of juice,compare
+best retailer price for tomatoes,compare
+best retailer price for yoghurt,compare
+best retailer price for potatoes,compare
+best retailer price for tea,compare
+best retailer price for carrots,compare
+best retailer price for beans,compare
+best retailer price for cereal,compare
+best retailer price for shampoo,compare
+best retailer price for butter,compare
+best retailer price for onions,compare
+best retailer price for lentils,compare
+best retailer price for juice,compare
+browse tomatoes products,browse
+browse yoghurt products,browse
+browse potatoes products,browse
+browse tea products,browse
+browse carrots products,browse
+browse beans products,browse
+browse cereal products,browse
+browse shampoo products,browse
+browse butter products,browse
+browse onions products,browse
+browse lentils products,browse
+browse juice products,browse
+show available tomatoes items,browse
+show available yoghurt items,browse
+show available potatoes items,browse
+show available tea items,browse
+show available carrots items,browse
+show available beans items,browse
+show available cereal items,browse
+show available shampoo items,browse
+show available butter items,browse
+show available onions items,browse
+show available lentils items,browse
+show available juice items,browse
+list all tomatoes products,browse
+list all yoghurt products,browse
+list all potatoes products,browse
+list all tea products,browse
+list all carrots products,browse
+list all beans products,browse
+list all cereal products,browse
+list all shampoo products,browse
+list all butter products,browse
+list all onions products,browse
+list all lentils products,browse
+list all juice products,browse
+search catalog for tomatoes,browse
+search catalog for yoghurt,browse
+search catalog for potatoes,browse
+search catalog for tea,browse
+search catalog for carrots,browse
+search catalog for beans,browse
+search catalog for cereal,browse
+search catalog for shampoo,browse
+search catalog for butter,browse
+search catalog for onions,browse
+search catalog for lentils,browse
+search catalog for juice,browse
+find tomatoes in the catalog,browse
+find yoghurt in the catalog,browse
+find potatoes in the catalog,browse
+find tea in the catalog,browse
+find carrots in the catalog,browse
+find beans in the catalog,browse
+find cereal in the catalog,browse
+find shampoo in the catalog,browse
+find butter in the catalog,browse
+find onions in the catalog,browse
+find lentils in the catalog,browse
+find juice in the catalog,browse
+what tomatoes do you sell,browse
+what yoghurt do you sell,browse
+what potatoes do you sell,browse
+what tea do you sell,browse
+what carrots do you sell,browse
+what beans do you sell,browse
+what cereal do you sell,browse
+what shampoo do you sell,browse
+what butter do you sell,browse
+what onions do you sell,browse
+what lentils do you sell,browse
+what juice do you sell,browse
+display tomatoes selection,browse
+display yoghurt selection,browse
+display potatoes selection,browse
+display tea selection,browse
+display carrots selection,browse
+display beans selection,browse
+display cereal selection,browse
+display shampoo selection,browse
+display butter selection,browse
+display onions selection,browse
+display lentils selection,browse
+display juice selection,browse
+show my cart,cart
+please show my cart,cart
+could you show my cart,cart
+can you show my cart,cart
+kindly show my cart,cart
+view my basket,cart
+please view my basket,cart
+could you view my basket,cart
+can you view my basket,cart
+kindly view my basket,cart
+what is in my shopping bag,cart
+please what is in my shopping bag,cart
+could you what is in my shopping bag,cart
+can you what is in my shopping bag,cart
+kindly what is in my shopping bag,cart
+list my cart items,cart
+please list my cart items,cart
+could you list my cart items,cart
+can you list my cart items,cart
+kindly list my cart items,cart
+review my selected products,cart
+please review my selected products,cart
+could you review my selected products,cart
+can you review my selected products,cart
+kindly review my selected products,cart
+display basket contents,cart
+please display basket contents,cart
+could you display basket contents,cart
+can you display basket contents,cart
+kindly display basket contents,cart
+what is my basket total,cart
+please what is my basket total,cart
+could you what is my basket total,cart
+can you what is my basket total,cart
+kindly what is my basket total,cart
+recommend groceries under R100,budget
+recommend groceries under R200,budget
+recommend groceries under R400,budget
+recommend groceries under R500,budget
+recommend groceries under R600,budget
+recommend groceries under R700,budget
+recommend groceries under R800,budget
+recommend groceries under R900,budget
+recommend groceries under R1000,budget
+I have R100 for food,budget
+I have R200 for food,budget
+I have R300 for food,budget
+I have R500 for food,budget
+I have R600 for food,budget
+I have R700 for food,budget
+I have R800 for food,budget
+I have R900 for food,budget
+I have R1000 for food,budget
+make a meal plan within R100,budget
+make a meal plan within R200,budget
+make a meal plan within R300,budget
+make a meal plan within R400,budget
+make a meal plan within R500,budget
+make a meal plan within R600,budget
+make a meal plan within R700,budget
+make a meal plan within R800,budget
+make a meal plan within R900,budget
+make a meal plan within R1000,budget
+shopping budget of R100,budget
+shopping budget of R200,budget
+shopping budget of R300,budget
+shopping budget of R400,budget
+shopping budget of R500,budget
+shopping budget of R600,budget
+shopping budget of R700,budget
+shopping budget of R800,budget
+shopping budget of R900,budget
+shopping budget of R1000,budget
+what can I afford with R100,budget
+what can I afford with R200,budget
+what can I afford with R300,budget
+what can I afford with R400,budget
+what can I afford with R500,budget
+what can I afford with R600,budget
+what can I afford with R700,budget
+what can I afford with R800,budget
+what can I afford with R900,budget
+what can I afford with R1000,budget
+suggest food for R100,budget
+suggest food for R200,budget
+suggest food for R300,budget
+suggest food for R400,budget
+suggest food for R500,budget
+suggest food for R600,budget
+suggest food for R700,budget
+suggest food for R800,budget
+suggest food for R900,budget
+suggest food for R1000,budget
+help me spend less than R100,budget
+help me spend less than R200,budget
+help me spend less than R300,budget
+help me spend less than R400,budget
+help me spend less than R500,budget
+help me spend less than R600,budget
+help me spend less than R700,budget
+help me spend less than R800,budget
+help me spend less than R900,budget
+help me spend less than R1000,budget
+optimise my basket,optimise
+please optimise my basket,optimise
+could you optimise my basket,optimise
+can you optimise my basket,optimise
+kindly optimise my basket,optimise
+reduce the total cost of my cart,optimise
+please reduce the total cost of my cart,optimise
+could you reduce the total cost of my cart,optimise
+can you reduce the total cost of my cart,optimise
+kindly reduce the total cost of my cart,optimise
+find the best retailer combination,optimise
+please find the best retailer combination,optimise
+could you find the best retailer combination,optimise
+can you find the best retailer combination,optimise
+kindly find the best retailer combination,optimise
+minimise collection costs,optimise
+please minimise collection costs,optimise
+could you minimise collection costs,optimise
+can you minimise collection costs,optimise
+kindly minimise collection costs,optimise
+consolidate my shopping basket,optimise
+please consolidate my shopping basket,optimise
+could you consolidate my shopping basket,optimise
+can you consolidate my shopping basket,optimise
+kindly consolidate my shopping basket,optimise
+find a cheaper complete order,optimise
+please find a cheaper complete order,optimise
+could you find a cheaper complete order,optimise
+can you find a cheaper complete order,optimise
+kindly find a cheaper complete order,optimise
+optimize my whole basket,optimise
+please optimize my whole basket,optimise
+could you optimize my whole basket,optimise
+can you optimize my whole basket,optimise
+kindly optimize my whole basket,optimise
+please proceed to checkout,checkout
+could you proceed to checkout,checkout
+can you proceed to checkout,checkout
+kindly proceed to checkout,checkout
+place my order,checkout
+please place my order,checkout
+could you place my order,checkout
+can you place my order,checkout
+kindly place my order,checkout
+pay for my basket,checkout
+please pay for my basket,checkout
+could you pay for my basket,checkout
+can you pay for my basket,checkout
+kindly pay for my basket,checkout
+finish my purchase,checkout
+please finish my purchase,checkout
+could you finish my purchase,checkout
+can you finish my purchase,checkout
+kindly finish my purchase,checkout
+submit my order,checkout
+please submit my order,checkout
+could you submit my order,checkout
+can you submit my order,checkout
+kindly submit my order,checkout
+I am ready to check out,checkout
+please I am ready to check out,checkout
+could you I am ready to check out,checkout
+can you I am ready to check out,checkout
+kindly I am ready to check out,checkout
+complete checkout,checkout
+please complete checkout,checkout
+could you complete checkout,checkout
+can you complete checkout,checkout
+kindly complete checkout,checkout
+track my order,track
+please track my order,track
+could you track my order,track
+can you track my order,track
+kindly track my order,track
+please where is my delivery,track
+could you where is my delivery,track
+can you where is my delivery,track
+kindly where is my delivery,track
+check my shipment status,track
+please check my shipment status,track
+could you check my shipment status,track
+can you check my shipment status,track
+kindly check my shipment status,track
+when will my parcel arrive,track
+please when will my parcel arrive,track
+could you when will my parcel arrive,track
+can you when will my parcel arrive,track
+kindly when will my parcel arrive,track
+show my order history,track
+please show my order history,track
+could you show my order history,track
+can you show my order history,track
+kindly show my order history,track
+locate my package,track
+please locate my package,track
+could you locate my package,track
+can you locate my package,track
+kindly locate my package,track
+check delivery progress,track
+please check delivery progress,track
+could you check delivery progress,track
+can you check delivery progress,track
+kindly check delivery progress,track
+send feedback to the developers,feedback
+please send feedback to the developers,feedback
+could you send feedback to the developers,feedback
+can you send feedback to the developers,feedback
+kindly send feedback to the developers,feedback
+I have a suggestion for the app,feedback
+please I have a suggestion for the app,feedback
+could you I have a suggestion for the app,feedback
+can you I have a suggestion for the app,feedback
+kindly I have a suggestion for the app,feedback
+report an issue to the team,feedback
+please report an issue to the team,feedback
+could you report an issue to the team,feedback
+can you report an issue to the team,feedback
+kindly report an issue to the team,feedback
+submit my feedback,feedback
+please submit my feedback,feedback
+could you submit my feedback,feedback
+can you submit my feedback,feedback
+kindly submit my feedback,feedback
+leave a review for the application,feedback
+please leave a review for the application,feedback
+could you leave a review for the application,feedback
+can you leave a review for the application,feedback
+kindly leave a review for the application,feedback
+give the developers a comment,feedback
+please give the developers a comment,feedback
+could you give the developers a comment,feedback
+can you give the developers a comment,feedback
+kindly give the developers a comment,feedback
+suggest an app improvement,feedback
+please suggest an app improvement,feedback
+could you suggest an app improvement,feedback
+can you suggest an app improvement,feedback
+kindly suggest an app improvement,feedback
+hello there,other
+please hello there,other
+could you hello there,other
+can you hello there,other
+kindly hello there,other
+how are you doing,other
+please how are you doing,other
+could you how are you doing,other
+can you how are you doing,other
+kindly how are you doing,other
+tell me a funny joke,other
+please tell me a funny joke,other
+could you tell me a funny joke,other
+can you tell me a funny joke,other
+kindly tell me a funny joke,other
+what is artificial intelligence,other
+please what is artificial intelligence,other
+could you what is artificial intelligence,other
+can you what is artificial intelligence,other
+kindly what is artificial intelligence,other
+thank you very much,other
+please thank you very much,other
+could you thank you very much,other
+can you thank you very much,other
+kindly thank you very much,other
+good evening,other
+please good evening,other
+could you good evening,other
+can you good evening,other
+kindly good evening,other
+write a story about space,other
+please write a story about space,other
+could you write a story about space,other
+can you write a story about space,other
+kindly write a story about space,other
+what is the weather like,other
+please what is the weather like,other
+could you what is the weather like,other
+can you what is the weather like,other
+kindly what is the weather like,other
+who created you,other
+please who created you,other
+could you who created you,other
+can you who created you,other
+kindly who created you,other
+explain science,other
+please explain science,other
+could you explain science,other
+can you explain science,other
+kindly explain science,other

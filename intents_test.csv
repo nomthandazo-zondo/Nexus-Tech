@@ -1,0 +1,34 @@
+text,intent
+feedback: great app,feedback
+how much is my basket,cart
+suggest groceries for R100,budget
+ready to order,checkout
+I have feedback,feedback
+hello,other
+what do you sell,browse
+optimise basket,optimise
+thanks,other
+how is your day,other
+review basket,cart
+buy eggs,add
+place order,checkout
+where is soap cheaper,compare
+spend no more than R450,budget
+buy basket,checkout
+order status,track
+track order,track
+remove flour please,remove
+browse Shoprite,browse
+show catalog,browse
+budget friendly basket,budget
+which retailer sells flour cheapest,compare
+display my shopping bag,cart
+track my parcel,track
+take away sugar,remove
+addd bred,add
+get rid of soap,remove
+reallocate groceries,optimise
+compare complete basket cost,optimise
+leave a review,feedback
+throw apples into my cart,add
+show pasta prices,compare
