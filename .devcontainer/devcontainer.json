@@ -1,0 +1,16 @@
+{
+    "name": "ShopSmart AI",
+    "forwardPorts": [6080],
+    "portsAttributes": {
+        "6080": {
+            "label": "ShopSmart AI",
+            "onAutoForward": "openPreview"
+        },
+        "5907": {
+            "onAutoForward": "ignore"
+        },
+        "11434": {
+            "onAutoForward": "ignore"
+        }
+    }
+}
