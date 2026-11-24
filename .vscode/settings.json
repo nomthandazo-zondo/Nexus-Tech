@@ -1,0 +1,15 @@
+{
+    "remote.autoForwardPorts": true,
+    "remote.portsAttributes": {
+        "6080": {
+            "label": "ShopSmart AI",
+            "onAutoForward": "openPreview"
+        },
+        "5907": {
+            "onAutoForward": "ignore"
+        },
+        "11434": {
+            "onAutoForward": "ignore"
+        }
+    }
+}
