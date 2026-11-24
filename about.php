@@ -1,1 +1,0 @@
-<?php $page='about'; include __DIR__.'/shell.php'; ?>
